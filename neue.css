@@ -1,0 +1,40 @@
+* {
+padding : 0px;
+margin : 0px;
+}
+header {
+ heigth: 100px;
+ width: 1500px;
+ background-color:white; 
+
+}
+nav ,u1,u2,u3,u4,u5,u6{
+ color:  red;
+ cursor: default;
+ margin-left: 50px;
+ padding-top: 10px;
+ 
+ 
+    
+}
+
+
+header img{
+
+    padding-left: 10px;
+    
+    padding-bottom: 5px;
+}
+h3{
+    text-align: center;
+    color: green;
+}
+h4{
+    text-align: center;
+}
+article > p{
+    text-align: center;
+}
+button{
+    margin-left: 570px;
+}
